@@ -1,0 +1,14 @@
+Y:\Programming 2\Atoms\bin\Debug\net8.0\Atoms.exe
+Y:\Programming 2\Atoms\bin\Debug\net8.0\Atoms.deps.json
+Y:\Programming 2\Atoms\bin\Debug\net8.0\Atoms.runtimeconfig.json
+Y:\Programming 2\Atoms\bin\Debug\net8.0\Atoms.dll
+Y:\Programming 2\Atoms\bin\Debug\net8.0\Atoms.pdb
+Y:\Programming 2\Atoms\obj\Debug\net8.0\Atoms.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Programming 2\Atoms\obj\Debug\net8.0\Atoms.AssemblyInfoInputs.cache
+Y:\Programming 2\Atoms\obj\Debug\net8.0\Atoms.AssemblyInfo.cs
+Y:\Programming 2\Atoms\obj\Debug\net8.0\Atoms.csproj.CoreCompileInputs.cache
+Y:\Programming 2\Atoms\obj\Debug\net8.0\Atoms.dll
+Y:\Programming 2\Atoms\obj\Debug\net8.0\refint\Atoms.dll
+Y:\Programming 2\Atoms\obj\Debug\net8.0\Atoms.pdb
+Y:\Programming 2\Atoms\obj\Debug\net8.0\Atoms.genruntimeconfig.cache
+Y:\Programming 2\Atoms\obj\Debug\net8.0\ref\Atoms.dll
