@@ -1,0 +1,14 @@
+Y:\Programming 2\Song\bin\Debug\net8.0\Song.exe
+Y:\Programming 2\Song\bin\Debug\net8.0\Song.deps.json
+Y:\Programming 2\Song\bin\Debug\net8.0\Song.runtimeconfig.json
+Y:\Programming 2\Song\bin\Debug\net8.0\Song.dll
+Y:\Programming 2\Song\bin\Debug\net8.0\Song.pdb
+Y:\Programming 2\Song\obj\Debug\net8.0\Song.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Programming 2\Song\obj\Debug\net8.0\Song.AssemblyInfoInputs.cache
+Y:\Programming 2\Song\obj\Debug\net8.0\Song.AssemblyInfo.cs
+Y:\Programming 2\Song\obj\Debug\net8.0\Song.csproj.CoreCompileInputs.cache
+Y:\Programming 2\Song\obj\Debug\net8.0\Song.dll
+Y:\Programming 2\Song\obj\Debug\net8.0\refint\Song.dll
+Y:\Programming 2\Song\obj\Debug\net8.0\Song.pdb
+Y:\Programming 2\Song\obj\Debug\net8.0\Song.genruntimeconfig.cache
+Y:\Programming 2\Song\obj\Debug\net8.0\ref\Song.dll

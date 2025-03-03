@@ -1,0 +1,14 @@
+Y:\Programming 2\Pet\obj\Debug\net8.0\Pet.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Programming 2\Pet\obj\Debug\net8.0\Pet.AssemblyInfoInputs.cache
+Y:\Programming 2\Pet\obj\Debug\net8.0\Pet.AssemblyInfo.cs
+Y:\Programming 2\Pet\obj\Debug\net8.0\Pet.csproj.CoreCompileInputs.cache
+Y:\Programming 2\Pet\bin\Debug\net8.0\Pet.exe
+Y:\Programming 2\Pet\bin\Debug\net8.0\Pet.deps.json
+Y:\Programming 2\Pet\bin\Debug\net8.0\Pet.runtimeconfig.json
+Y:\Programming 2\Pet\bin\Debug\net8.0\Pet.dll
+Y:\Programming 2\Pet\bin\Debug\net8.0\Pet.pdb
+Y:\Programming 2\Pet\obj\Debug\net8.0\Pet.dll
+Y:\Programming 2\Pet\obj\Debug\net8.0\refint\Pet.dll
+Y:\Programming 2\Pet\obj\Debug\net8.0\Pet.pdb
+Y:\Programming 2\Pet\obj\Debug\net8.0\Pet.genruntimeconfig.cache
+Y:\Programming 2\Pet\obj\Debug\net8.0\ref\Pet.dll

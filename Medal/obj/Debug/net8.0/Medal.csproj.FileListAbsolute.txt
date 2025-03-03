@@ -1,0 +1,14 @@
+Y:\Programming 2\Medal\bin\Debug\net8.0\Medal.exe
+Y:\Programming 2\Medal\bin\Debug\net8.0\Medal.deps.json
+Y:\Programming 2\Medal\bin\Debug\net8.0\Medal.runtimeconfig.json
+Y:\Programming 2\Medal\bin\Debug\net8.0\Medal.dll
+Y:\Programming 2\Medal\bin\Debug\net8.0\Medal.pdb
+Y:\Programming 2\Medal\obj\Debug\net8.0\Medal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Programming 2\Medal\obj\Debug\net8.0\Medal.AssemblyInfoInputs.cache
+Y:\Programming 2\Medal\obj\Debug\net8.0\Medal.AssemblyInfo.cs
+Y:\Programming 2\Medal\obj\Debug\net8.0\Medal.csproj.CoreCompileInputs.cache
+Y:\Programming 2\Medal\obj\Debug\net8.0\Medal.dll
+Y:\Programming 2\Medal\obj\Debug\net8.0\refint\Medal.dll
+Y:\Programming 2\Medal\obj\Debug\net8.0\Medal.pdb
+Y:\Programming 2\Medal\obj\Debug\net8.0\Medal.genruntimeconfig.cache
+Y:\Programming 2\Medal\obj\Debug\net8.0\ref\Medal.dll
